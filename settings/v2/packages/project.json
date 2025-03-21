@@ -1,0 +1,23 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "layer": [
+    {
+      "name": "GAME_MAP",
+      "value": 1
+    },
+    {
+      "name": "GAME_INS",
+      "value": 2
+    },
+    {
+      "name": "GAME_UI",
+      "value": 4
+    }
+  ]
+}
