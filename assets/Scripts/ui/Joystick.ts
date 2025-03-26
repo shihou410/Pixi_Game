@@ -51,7 +51,6 @@ export default class Joystick extends Component {
         this.targetWp.x = this.targetWp.x * this.radius + this.node.worldPosition.x;
         this.targetWp.y = this.targetWp.y * this.radius + this.node.worldPosition.y;
 
-        console.log(normalizedAngle);
         InputMgr.ins.emit("JoystickMove", normalizedAngle);
 
     }
