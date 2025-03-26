@@ -2,7 +2,7 @@
   "ver": "1.0.27",
   "importer": "image",
   "imported": true,
-  "uuid": "ff7cb02c-add6-4b43-a62f-1a0307806487",
+  "uuid": "06553d29-425f-4b01-b13d-27c9dc9c982a",
   "files": [
     ".json",
     ".png"
@@ -10,14 +10,14 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "ff7cb02c-add6-4b43-a62f-1a0307806487@6c48a",
+      "uuid": "06553d29-425f-4b01-b13d-27c9dc9c982a@6c48a",
       "displayName": "joystick_bg",
       "id": "6c48a",
       "name": "texture",
       "userData": {
         "wrapModeS": "clamp-to-edge",
         "wrapModeT": "clamp-to-edge",
-        "imageUuidOrDatabaseUri": "ff7cb02c-add6-4b43-a62f-1a0307806487",
+        "imageUuidOrDatabaseUri": "06553d29-425f-4b01-b13d-27c9dc9c982a",
         "isUuid": true,
         "visible": false,
         "minfilter": "linear",
@@ -34,7 +34,7 @@
     },
     "f9941": {
       "importer": "sprite-frame",
-      "uuid": "ff7cb02c-add6-4b43-a62f-1a0307806487@f9941",
+      "uuid": "06553d29-425f-4b01-b13d-27c9dc9c982a@f9941",
       "displayName": "joystick_bg",
       "id": "f9941",
       "name": "spriteFrame",
@@ -114,7 +114,7 @@
           ]
         },
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "ff7cb02c-add6-4b43-a62f-1a0307806487@6c48a",
+        "imageUuidOrDatabaseUri": "06553d29-425f-4b01-b13d-27c9dc9c982a@6c48a",
         "atlasUuid": ""
       },
       "ver": "1.0.12",
@@ -129,6 +129,6 @@
     "type": "sprite-frame",
     "hasAlpha": true,
     "fixAlphaTransparencyArtifacts": false,
-    "redirect": "ff7cb02c-add6-4b43-a62f-1a0307806487@6c48a"
+    "redirect": "06553d29-425f-4b01-b13d-27c9dc9c982a@6c48a"
   }
 }
