@@ -167,6 +167,7 @@
         "_value": false
       },
       "render-pipeline": {
+        "_value": true,
         "_option": "custom-pipeline"
       },
       "custom-pipeline": {
@@ -184,6 +185,7 @@
       "animation",
       "audio",
       "base",
+      "custom-pipeline",
       "dragon-bones",
       "gfx-webgl",
       "gfx-webgl2",
@@ -196,8 +198,7 @@
       "tween",
       "ui",
       "video",
-      "webview",
-      "custom-pipeline"
+      "webview"
     ],
     "noDeprecatedFeatures": {
       "value": false,

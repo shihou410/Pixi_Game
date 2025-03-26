@@ -47,6 +47,10 @@ export class InputMgr extends Component {
         this.target.off(type, call, target);
     }
 
+    public emit(type: string, ...args: any[]) {
+        this.target.emit(type, args);
+    }
+
     public removeAll() {
         this.eventTypes.forEach(type => {
             this.target.removeAll(type);
